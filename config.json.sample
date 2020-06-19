@@ -27,7 +27,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "Wallet address",
+        "poolAddress": "Xun3XT4TPArBpvYP5k9jPgVjCNcXpysekij6xBTV5526GUn3HiQJKQMT6wQJ1kc6m4aS2EZm2YcyHPgpiXvFinzg69fmDYCWhK",
         "intAddressPrefix": null,
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
